@@ -1,0 +1,33 @@
+server_setup & project stuff
+
+
+massmail
+	If something goes down, you should be able to choose from some premade mail - and a list (usually your clients)
+	This is a great Lua candidate
+
+	
+run a test
+x	make a folder or something, but run through the entire process
+	add --by, --where, and other modifiers ( --at, --with)
+
+	
+after that works, move your other traps
+	user management
+	access control
+	apache
+	php
+	mysql or postgresql
+	adding public keys and stuff
+	arch - jack
+	arch - server
+	gentoo
+	replication
+	sql backup
+	rsync
+
+
+add sync option to config
+	Get a database from some other server...
+
+you should integrate pbr???
+	or at least make one just for this sort of thing	

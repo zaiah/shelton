@@ -1,0 +1,185 @@
+===================================================
+ server setup
+===================================================
+
+project (seperate thing)
+	track these:
+		time that project was opened
+		when project was started
+	create a new one
+		folder
+		tables
+		views
+	remove one
+	modify one
+		change project directory
+		change project name
+	
+
+client generator
+	choose a framework
+	choose from js tools
+	choose from databases
+	generate some basic layout...
+	
+	
+design
+	rounded-corners
+	shades
+	color schemes
+	li maker
+-	iconoclash
+	x	pinterest
+	x	facebook
+	x	google+
+	x	twitter
+		email
+	x	instagram
+			http://help.instagram.com/454502981253053/
+	-	soundcloud
+			https://soundcloud.com/pages/widgets
+			http://developers.soundcloud.com/docs/api/terms-of-use#undefined
+		share this
+	x	vimeo
+	x	youtube
+		
+
+js - scaffolding and boiler plate code
+	improved bower (hylo)
+		wget something and run and create the dirs and all that's needed...
+		you can register as a user
+		and you can put your own stuff up
+		make your own profiles to grab stuff
+		and do other stupid things...
+x	bower
+	async upload
+	ajax POST / GET
+-	drag and drop (backward compat to ie7)
+	headers (these may be built into JQuery)
+	datastore drivers
+		cookies
+		redis
+		local storage
+x	backbone (solves some of the problems listed)
+		element last changed
+x	keystroke tracking
+	collision detection
+	cufon & other font detection
+	pubsub
+		https://github.com/mroderick/PubSubJS
+		http://blog.bobcravens.com/2011/01/loosely-coupled-javascript-using-pubsub/
+	authentication & signups
+		required field
+		password strength
+			not too hard to implement?
+		captcha
+			http://www.google.com/recaptcha
+			https://developers.google.com/recaptcha/
+			https://www.google.com/recaptcha/admin/site?siteid=316691898
+			vokayent.com
+			Public Key:  6Le6VeASAAAAACrkZgbYsNKRuTUEoy63OSeRO5Z5
+			Private Key: 6Le6VeASAAAAAMNS7l7Aex2xwpD7eP2U_8ZvKKnL
+			https://developers.google.com/recaptcha/intro
+		password checker
+		email checker
+	html5 and files
+x		progress bar
+x		get file info		
+	usage tracking
+		analytics
+		bit.ly
+		redis (custom)
+		unit tests
+
+
+sql (stored procedures)
+	md5
+	hmac
+	sha1
+	media / blob junk
+	updates
+
+
+maintenance
+	SQL vacuums (Postgres)
+	MRTG
+		server statuses
+		??
+	Cron
+		easy way to add jobs (there is some Python program for this)
+	SQL backups
+	SQL Replication			
+	Time Interval Rsyncs
+	SSH Fresh
+	Mail maintenance
+	updatedb
+
+
+sockets & OAuth
+	libs
+		Python 
+		PHP
+		Lua
+		js
+	apis
+		paypal
+		soundcloud
+		maps (google)
+		facebook
+		twitter
+		and something else...important...	
+
+voiping
+	personal office setup (google voice should be sufficient for me)
+	asterisk (for others)
+	
+
+Tracking (from server-side), a script that can automate the setup of any 3:	
+	bit.ly
+	google analytics
+	quick track
+
+
+OS installs (no users or anything else...)
+	Arch + SSH
+	BSD + SSH
+
+
+Deployment & Installs
+	High-Availability  (there is a tool for this...)
+	Postgres
+	Pagan
+	Silex
+	Django
+	scripts for package management
+	SSH Users & Base Keys
+	Policies & Priveleges
+	Mail / mailer
+	Apache
+	Lighttpd
+	Firewall (ip tables)
+	HTTPS
+	Server-side font replacement	
+
+
+Other Tools
+	Huey
+	SQLite to Postgres
+	Wordpress
+	Quick Campaign (for very fast to deploy social media stuffs)
+	Instastore
+	Payment system
+	Social Media image map
+	Image Map 
+	Pagan
+		lazycms
+		
+
+Contracts
+	DJ Contract
+	Server & design contract	
+
+
+Phones & Tablets
+	apps
+	mobile sites	

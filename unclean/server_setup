@@ -1,0 +1,131 @@
+===================================================
+ server setup
+===================================================
+
+client generator
+	choose a framework
+	choose from js tools
+	choose from databases
+	generate some basic layout...
+	iconoclash
+		pinterest
+		facebook
+			like this
+		google+
+		twitter
+		email
+		instagram
+		soundcloud
+		share this
+		vimeo
+		youtube
+		
+
+js - scaffolding and boiler plate code
+x	bower
+	async upload
+	ajax POST / GET
+	drag and drop (backward compat to ie7)
+	datastore drivers
+		cookies
+		redis
+		local storage
+	keystroke tracking
+	collision detection
+	cufon & other font detection
+		?? how does this work ?
+	pubsub
+	authentication
+		password strength
+		captcha
+		password checker
+		email checker
+	html5 and files
+		progress bar
+		get file info		
+	usage tracking
+		analytics
+		bit.ly
+		redis (custom)
+		unit tests
+
+
+maintenance
+	SQL vacuums (Postgres)
+	MRTG
+		server statuses
+		??
+	Cron
+		easy way to add jobs (there is some Python program for this)
+	SQL backups
+	SQL Replication			
+	Time Interval Rsyncs
+	SSH Fresh
+	Mail maintenance
+	updatedb
+
+
+sockets & OAuth
+	libs
+		Python 
+		PHP
+		Lua
+		js
+	apis
+		paypal
+		soundcloud
+		maps (google)
+		facebook
+		twitter
+		and something else...important...	
+
+
+Tracking (from server-side), a script that can automate the setup of any 3:	
+	bit.ly
+	google analytics
+	quick track
+
+
+OS installs (no users or anything else...)
+	Arch + SSH
+	BSD + SSH
+
+
+Deployment & Installs
+	High-Availability  (there is a tool for this...)
+	Postgres
+	Pagan
+	Silex
+	Django
+	scripts for package management
+	SSH Users & Base Keys
+	Policies & Priveleges
+	Mail / mailer
+	Apache
+	Lighttpd
+	Firewall (ip tables)
+	HTTPS
+	Server-side font replacement	
+
+
+Other Tools
+	Huey
+	SQLite to Postgres
+	Wordpress
+	Quick Campaign (for very fast to deploy social media stuffs)
+	Instastore
+	Payment system
+	Social Media image map
+	Image Map 
+	Pagan
+		lazycms
+		
+
+Contracts
+	DJ Contract
+	Server & design contract	
+
+
+Phones & Tablets
+	apps
+	mobile sites	
